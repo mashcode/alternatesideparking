@@ -1,0 +1,42 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NYC DOT//Strategic Communications//EN
+X-WR-CALDESC:2014 Alternate Side Parking Suspension schedule for New York 
+ City. Visit http://nyc.gov/dot for details. Subscribe to updates on 
+ Twitter at http://twitter.com/nycasp.
+X-WR-CALNAME:2014 Alternate Side Parking
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+SUMMARY:Alternate Side Parking Suspended
+DTSTART:20140728T201000Z
+DTEND:20140729T120000Z
+DTSTAMP:20141115T191310Z
+UID:20140728ASP@dot.nyc.gov
+SEQUENCE:0
+DESCRIPTION:Alternate Side Parking suspended for Idul-Fitr. Parking meters 
+ will be in effect.
+LOCATION:New York City
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alternate Side Parking Suspended
+DTSTART:20140729T200000Z
+DTEND:20140730T120000Z
+DTSTAMP:20141115T191310Z
+UID:20140729ASP@dot.nyc.gov
+SEQUENCE:0
+DESCRIPTION:Alternate Side Parking suspended for Idul-Fitr. Parking meters 
+ will be in effect.
+LOCATION:New York City
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alternate Side Parking Suspended
+DTSTART:20140730T200000Z
+DTEND:20140731T120900Z
+DTSTAMP:20141115T191310Z
+UID:20140730ASP@dot.nyc.gov
+SEQUENCE:0
+DESCRIPTION:Alternate Side Parking suspended for Idul-Fitr. Parking meters 
+ will be in effect.
+LOCATION:New York City
+END:VEVENT
+END:VCALENDAR

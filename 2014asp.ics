@@ -1,0 +1,461 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NYC DOT//Strategic Communications//EN
+X-WR-CALDESC:2014 Alternate Side Parking Suspension schedule for New York 
+ City. Visit http://nyc.gov/dot for details. Subscribe to updates on 
+ Twitter at http://twitter.com/nycasp.
+X-WR-CALNAME:2014 Alternate Side Parking
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+SUMMARY:Alternate Side Parking Suspended
+DTSTART;VALUE=DATE:20140101
+DTEND;VALUE=DATE:20140102
+DTSTAMP;VALUE=DATE-TIME:20141115T191310Z
+UID:20140101ASP@dot.nyc.gov
+SEQUENCE:0
+DESCRIPTION:Alternate Side Parking suspended for New Years Day. Parking 
+ meters will not be in effect. Stopping, standing and parking are 
+ permitted, except in areas where stopping, standing and parking rules are 
+ in effect seven days a week (for example, "No Standing Anytime").
+LOCATION:New York City
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alternate Side Parking Suspended
+DTSTART;VALUE=DATE:20140120
+DTEND;VALUE=DATE:20140121
+DTSTAMP;VALUE=DATE-TIME:20141115T191310Z
+UID:20140120ASP@dot.nyc.gov
+SEQUENCE:0
+DESCRIPTION:Alternate Side Parking suspended for Martin Luther King, Jr.'s 
+ Birthday. Parking meters will be in effect.
+LOCATION:New York City
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alternate Side Parking Suspended
+DTSTART;VALUE=DATE:20140131
+DTEND;VALUE=DATE:20140201
+DTSTAMP;VALUE=DATE-TIME:20141115T191310Z
+UID:20140131ASP@dot.nyc.gov
+SEQUENCE:0
+DESCRIPTION:Alternate Side Parking suspended for Asian Lunar New Year. 
+ Parking meters will be in effect.
+LOCATION:New York City
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alternate Side Parking Suspended
+DTSTART;VALUE=DATE:20140212
+DTEND;VALUE=DATE:20140213
+DTSTAMP;VALUE=DATE-TIME:20141115T191310Z
+UID:20140212ASP@dot.nyc.gov
+SEQUENCE:0
+DESCRIPTION:Alternate Side Parking suspended for Lincoln's Birthday. 
+ Parking meters will be in effect.
+LOCATION:New York City
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alternate Side Parking Suspended
+DTSTART;VALUE=DATE:20140217
+DTEND;VALUE=DATE:20140218
+DTSTAMP;VALUE=DATE-TIME:20141115T191310Z
+UID:20140217ASP@dot.nyc.gov
+SEQUENCE:0
+DESCRIPTION:Alternate Side Parking suspended for Washington's Birthday. 
+ Parking meters will be in effect.
+LOCATION:New York City
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alternate Side Parking Suspended
+DTSTART;VALUE=DATE:20140305
+DTEND;VALUE=DATE:20140306
+DTSTAMP;VALUE=DATE-TIME:20141115T191310Z
+UID:20140305ASP@dot.nyc.gov
+SEQUENCE:0
+DESCRIPTION:Alternate Side Parking suspended for Ash Wednesday. Parking 
+ meters will be in effect.
+LOCATION:New York City
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alternate Side Parking Suspended
+DTSTART;VALUE=DATE:20140316
+DTEND;VALUE=DATE:20140317
+DTSTAMP;VALUE=DATE-TIME:20141115T191310Z
+UID:20140316ASP@dot.nyc.gov
+SEQUENCE:0
+DESCRIPTION:Alternate Side Parking suspended for Purim. Parking meters will
+  be in effect.
+LOCATION:New York City
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alternate Side Parking Suspended
+DTSTART;VALUE=DATE:20140415
+DTEND;VALUE=DATE:20140416
+DTSTAMP;VALUE=DATE-TIME:20141115T191310Z
+UID:20140415ASP@dot.nyc.gov
+SEQUENCE:0
+DESCRIPTION:Alternate Side Parking suspended for Passover (1st day). 
+ Parking meters will be in effect.
+LOCATION:New York City
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alternate Side Parking Suspended
+DTSTART;VALUE=DATE:20140416
+DTEND;VALUE=DATE:20140417
+DTSTAMP;VALUE=DATE-TIME:20141115T191310Z
+UID:20140416ASP@dot.nyc.gov
+SEQUENCE:0
+DESCRIPTION:Alternate Side Parking suspended for Passover (2nd day). 
+ Parking meters will be in effect.
+LOCATION:New York City
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alternate Side Parking Suspended
+DTSTART;VALUE=DATE:20140417
+DTEND;VALUE=DATE:20140418
+DTSTAMP;VALUE=DATE-TIME:20141115T191310Z
+UID:20140417ASP@dot.nyc.gov
+SEQUENCE:0
+DESCRIPTION:Alternate Side Parking suspended for Holy Thursday (Orthodox). 
+ Parking meters will be in effect.
+LOCATION:New York City
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alternate Side Parking Suspended
+DTSTART;VALUE=DATE:20140418
+DTEND;VALUE=DATE:20140419
+DTSTAMP;VALUE=DATE-TIME:20141115T191310Z
+UID:20140418ASP@dot.nyc.gov
+SEQUENCE:0
+DESCRIPTION:Alternate Side Parking suspended for Good Friday (Orthodox). 
+ Parking meters will be in effect.
+LOCATION:New York City
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alternate Side Parking Suspended
+DTSTART;VALUE=DATE:20140421
+DTEND;VALUE=DATE:20140422
+DTSTAMP;VALUE=DATE-TIME:20141115T191310Z
+UID:20140421ASP@dot.nyc.gov
+SEQUENCE:0
+DESCRIPTION:Alternate Side Parking suspended for Passover (7th day). 
+ Parking meters will be in effect.
+LOCATION:New York City
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alternate Side Parking Suspended
+DTSTART;VALUE=DATE:20140422
+DTEND;VALUE=DATE:20140423
+DTSTAMP;VALUE=DATE-TIME:20141115T191310Z
+UID:20140422ASP@dot.nyc.gov
+SEQUENCE:0
+DESCRIPTION:Alternate Side Parking suspended for Passover (8th day). 
+ Parking meters will be in effect.
+LOCATION:New York City
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alternate Side Parking Suspended
+DTSTART;VALUE=DATE:20140526
+DTEND;VALUE=DATE:20140527
+DTSTAMP;VALUE=DATE-TIME:20141115T191310Z
+UID:20140526ASP@dot.nyc.gov
+SEQUENCE:0
+DESCRIPTION:Alternate Side Parking suspended for Memorial Day. Parking 
+ meters will not be in effect. Stopping, standing and parking are 
+ permitted, except in areas where stopping, standing and parking rules are 
+ in effect seven days a week (for example, "No Standing Anytime").
+LOCATION:New York City
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alternate Side Parking Suspended
+DTSTART;VALUE=DATE:20140529
+DTEND;VALUE=DATE:20140530
+DTSTAMP;VALUE=DATE-TIME:20141115T191310Z
+UID:20140529ASP@dot.nyc.gov
+SEQUENCE:0
+DESCRIPTION:Alternate Side Parking suspended for the Solemnity of the 
+ Ascension. Parking meters will be in effect.
+LOCATION:New York City
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alternate Side Parking Suspended
+DTSTART;VALUE=DATE:20140604
+DTEND;VALUE=DATE:20140605
+DTSTAMP;VALUE=DATE-TIME:20141115T191310Z
+UID:20140604ASP@dot.nyc.gov
+SEQUENCE:0
+DESCRIPTION:Alternate Side Parking suspended for Shavuot. Parking meters 
+ will be in effect.
+LOCATION:New York City
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alternate Side Parking Suspended
+DTSTART;VALUE=DATE:20140605
+DTEND;VALUE=DATE:20140606
+DTSTAMP;VALUE=DATE-TIME:20141115T191310Z
+UID:20140605ASP@dot.nyc.gov
+SEQUENCE:0
+DESCRIPTION:Alternate Side Parking suspended for Shavuot. Parking meters 
+ will be in effect.
+LOCATION:New York City
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alternate Side Parking Suspended
+DTSTART;VALUE=DATE:20140704
+DTEND;VALUE=DATE:20140705
+DTSTAMP;VALUE=DATE-TIME:20141115T191310Z
+UID:20140704ASP@dot.nyc.gov
+SEQUENCE:0
+DESCRIPTION:Alternate Side Parking suspended for Independence Day. Parking 
+ meters will not be in effect. Stopping, standing and parking are 
+ permitted, except in areas where stopping, standing and parking rules are 
+ in effect seven days a week (for example, "No Standing Anytime").
+LOCATION:New York City
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alternate Side Parking Suspended
+DTSTART;VALUE=DATE:20140728
+DTEND;VALUE=DATE:20140729
+DTSTAMP;VALUE=DATE-TIME:20141115T191310Z
+UID:20140728ASP@dot.nyc.gov
+SEQUENCE:0
+DESCRIPTION:Alternate Side Parking suspended for Idul-Fitr. Parking meters 
+ will be in effect.
+LOCATION:New York City
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alternate Side Parking Suspended
+DTSTART;VALUE=DATE:20140729
+DTEND;VALUE=DATE:20140730
+DTSTAMP;VALUE=DATE-TIME:20141115T191310Z
+UID:20140729ASP@dot.nyc.gov
+SEQUENCE:0
+DESCRIPTION:Alternate Side Parking suspended for Idul-Fitr. Parking meters 
+ will be in effect.
+LOCATION:New York City
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alternate Side Parking Suspended
+DTSTART;VALUE=DATE:20140730
+DTEND;VALUE=DATE:20140731
+DTSTAMP;VALUE=DATE-TIME:20141115T191310Z
+UID:20140730ASP@dot.nyc.gov
+SEQUENCE:0
+DESCRIPTION:Alternate Side Parking suspended for Idul-Fitr. Parking meters 
+ will be in effect.
+LOCATION:New York City
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alternate Side Parking Suspended
+DTSTART;VALUE=DATE:20140815
+DTEND;VALUE=DATE:20140816
+DTSTAMP;VALUE=DATE-TIME:20141115T191310Z
+UID:20140815ASP@dot.nyc.gov
+SEQUENCE:0
+DESCRIPTION:Alternate Side Parking suspended for the Feast of the 
+ Assumption. Parking meters will be in effect.
+LOCATION:New York City
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alternate Side Parking Suspended
+DTSTART;VALUE=DATE:20140901
+DTEND;VALUE=DATE:20140902
+DTSTAMP;VALUE=DATE-TIME:20141115T191310Z
+UID:20140901ASP@dot.nyc.gov
+SEQUENCE:0
+DESCRIPTION:Alternate Side Parking suspended for Labor Day. Parking meters 
+ will not be in effect. Stopping, standing and parking are permitted, 
+ except in areas where stopping, standing and parking rules are in effect 
+ seven days a week (for example, "No Standing Anytime").
+LOCATION:New York City
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alternate Side Parking Suspended
+DTSTART;VALUE=DATE:20140925
+DTEND;VALUE=DATE:20140926
+DTSTAMP;VALUE=DATE-TIME:20141115T191310Z
+UID:20140925ASP@dot.nyc.gov
+SEQUENCE:0
+DESCRIPTION:Alternate Side Parking suspended for Rosh Hashanah. Parking 
+ meters will be in effect.
+LOCATION:New York City
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alternate Side Parking Suspended
+DTSTART;VALUE=DATE:20140926
+DTEND;VALUE=DATE:20140927
+DTSTAMP;VALUE=DATE-TIME:20141115T191310Z
+UID:20140926ASP@dot.nyc.gov
+SEQUENCE:0
+DESCRIPTION:Alternate Side Parking suspended for Rosh Hashanah. Parking 
+ meters will be in effect.
+LOCATION:New York City
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alternate Side Parking Suspended
+DTSTART;VALUE=DATE:20141004
+DTEND;VALUE=DATE:20141005
+DTSTAMP;VALUE=DATE-TIME:20141115T191310Z
+UID:20141004ASP@dot.nyc.gov
+SEQUENCE:0
+DESCRIPTION:Alternate Side Parking suspended for Idul-Adha and Yom Kippur. 
+ Parking meters will be in effect.
+LOCATION:New York City
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alternate Side Parking Suspended
+DTSTART;VALUE=DATE:20141005
+DTEND;VALUE=DATE:20141006
+DTSTAMP;VALUE=DATE-TIME:20141115T191310Z
+UID:20141005ASP@dot.nyc.gov
+SEQUENCE:0
+DESCRIPTION:Alternate Side Parking suspended for Idul-Adha. Parking meters 
+ will be in effect.
+LOCATION:New York City
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alternate Side Parking Suspended
+DTSTART;VALUE=DATE:20141006
+DTEND;VALUE=DATE:20141007
+DTSTAMP;VALUE=DATE-TIME:20141115T191310Z
+UID:20141006ASP@dot.nyc.gov
+SEQUENCE:0
+DESCRIPTION:Alternate Side Parking suspended for Idul-Adha. Parking meters 
+ will be in effect.
+LOCATION:New York City
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alternate Side Parking Suspended
+DTSTART;VALUE=DATE:20141010
+DTEND;VALUE=DATE:20141011
+DTSTAMP;VALUE=DATE-TIME:20141115T191310Z
+UID:20141010ASP@dot.nyc.gov
+SEQUENCE:0
+DESCRIPTION:Alternate Side Parking suspended for Succoth. Parking meters 
+ will be in effect.
+LOCATION:New York City
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alternate Side Parking Suspended
+DTSTART;VALUE=DATE:20141009
+DTEND;VALUE=DATE:20141010
+DTSTAMP;VALUE=DATE-TIME:20141115T191310Z
+UID:20141009ASP@dot.nyc.gov
+SEQUENCE:0
+DESCRIPTION:Alternate Side Parking suspended for Succoth. Parking meters 
+ will be in effect.
+LOCATION:New York City
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alternate Side Parking Suspended
+DTSTART;VALUE=DATE:20141013
+DTEND;VALUE=DATE:20141014
+DTSTAMP;VALUE=DATE-TIME:20141115T191310Z
+UID:20141013ASP@dot.nyc.gov
+SEQUENCE:0
+DESCRIPTION:Alternate Side Parking suspended for Columbus Day. Parking 
+ meters will be in effect.
+LOCATION:New York City
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alternate Side Parking Suspended
+DTSTART;VALUE=DATE:20141016
+DTEND;VALUE=DATE:20141017
+DTSTAMP;VALUE=DATE-TIME:20141115T191310Z
+UID:20141016ASP@dot.nyc.gov
+SEQUENCE:0
+DESCRIPTION:Alternate Side Parking suspended for Shemini Atzereth. Parking 
+ meters will be in effect.
+LOCATION:New York City
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alternate Side Parking Suspended
+DTSTART;VALUE=DATE:20141017
+DTEND;VALUE=DATE:20141018
+DTSTAMP;VALUE=DATE-TIME:20141115T191310Z
+UID:20141017ASP@dot.nyc.gov
+SEQUENCE:0
+DESCRIPTION:Alternate Side Parking suspended for Simchas Torah. Parking 
+ meters will be in effect.
+LOCATION:New York City
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alternate Side Parking Suspended
+DTSTART;VALUE=DATE:20141023
+DTEND;VALUE=DATE:20141024
+DTSTAMP;VALUE=DATE-TIME:20141115T191310Z
+UID:20141023ASP@dot.nyc.gov
+SEQUENCE:0
+DESCRIPTION:Alternate Side Parking suspended for Diwali. Parking meters 
+ will be in effect.
+LOCATION:New York City
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alternate Side Parking Suspended
+DTSTART;VALUE=DATE:20141101
+DTEND;VALUE=DATE:20141102
+DTSTAMP;VALUE=DATE-TIME:20141115T191310Z
+UID:20141101ASP@dot.nyc.gov
+SEQUENCE:0
+DESCRIPTION:Alternate Side Parking suspended for All Saints Day. Parking 
+ meters will be in effect.
+LOCATION:New York City
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alternate Side Parking Suspended
+DTSTART;VALUE=DATE:20141104
+DTEND;VALUE=DATE:20141105
+DTSTAMP;VALUE=DATE-TIME:20141115T191310Z
+UID:20141104ASP@dot.nyc.gov
+SEQUENCE:0
+DESCRIPTION:Alternate Side Parking suspended for Election Day. Parking 
+ meters will be in effect.
+LOCATION:New York City
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alternate Side Parking Suspended
+DTSTART;VALUE=DATE:20141111
+DTEND;VALUE=DATE:20141112
+DTSTAMP;VALUE=DATE-TIME:20141115T191310Z
+UID:20141111ASP@dot.nyc.gov
+SEQUENCE:0
+DESCRIPTION:Alternate Side Parking suspended for Veterans Day. Parking 
+ meters will be in effect.
+LOCATION:New York City
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alternate Side Parking Suspended
+DTSTART;VALUE=DATE:20141127
+DTEND;VALUE=DATE:20141128
+DTSTAMP;VALUE=DATE-TIME:20141115T191310Z
+UID:20141127ASP@dot.nyc.gov
+SEQUENCE:0
+DESCRIPTION:Alternate Side Parking suspended for Thanksgiving. Parking 
+ meters will not be in effect. Stopping, standing and parking are 
+ permitted, except in areas where stopping, standing and parking rules are 
+ in effect seven days a week (for example, "No Standing Anytime").
+LOCATION:New York City
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alternate Side Parking Suspended
+DTSTART;VALUE=DATE:20141208
+DTEND;VALUE=DATE:20141209
+DTSTAMP;VALUE=DATE-TIME:20141115T191310Z
+UID:20141208ASP@dot.nyc.gov
+SEQUENCE:0
+DESCRIPTION:Alternate Side Parking suspended for Immaculate Conception. 
+ Parking meters will be in effect.
+LOCATION:New York City
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alternate Side Parking Suspended
+DTSTART;VALUE=DATE:20141225
+DTEND;VALUE=DATE:20141226
+DTSTAMP;VALUE=DATE-TIME:20141115T191310Z
+UID:20141225ASP@dot.nyc.gov
+SEQUENCE:0
+DESCRIPTION:Alternate Side Parking suspended for Christmas. Parking meters 
+ will not be in effect. Stopping, standing and parking are permitted, 
+ except in areas where stopping, standing and parking rules are in effect 
+ seven days a week (for example, "No Standing Anytime").
+LOCATION:New York City
+END:VEVENT
+END:VCALENDAR
